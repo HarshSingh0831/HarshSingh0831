@@ -34,58 +34,17 @@ I enjoy building practical AI applications that combine software, intelligent mo
 
 ## 🧠 Who I Am
 
-```python
-class HarshSingh:
-    def __init__(self):
-        self.education = (
-            "MCA at Thapar Institute of Engineering "
-            "and Technology, 2025-2027"
-        )
+I'm **Harsh Singh**, an MCA student at **Thapar Institute of Engineering & Technology** with a passion for building practical AI solutions that solve real-world problems.
 
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Large Language Models",
-            "Retrieval-Augmented Generation",
-            "Natural Language Processing",
-            "Computer Vision",
-            "Virtual Reality",
-            "Edge AI"
-        ]
-
-        self.languages = [
-            "Python",
-            "SQL"
-        ]
-
-        self.technologies = [
-            "Streamlit",
-            "LangChain",
-            "Ollama",
-            "FAISS",
-            "Hugging Face",
-            "Scikit-learn",
-            "Pandas",
-            "NumPy",
-            "OpenCV",
-            "SQLite",
-            "Git",
-            "GitHub"
-        ]
-
-        self.projects = [
-            "AI-Based Software Learning Assistant",
-            "AI-Powered Research Paper Summarizer",
-            "Speech and Facial Emotion Detection Using VR",
-            "Voice-Controlled VR Software System"
-        ]
-
-        self.open_to = [
-            "AI/ML Internships",
-            "Data Science Roles",
-            "Research Collaborations",
-            "Open-Source Contributions"
-        ]
+- 🎓 Pursuing **Master of Computer Applications (MCA)** at Thapar Institute of Engineering & Technology
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG)**
+- 📚 Experienced in building **AI-powered research paper summarization and knowledge retrieval systems**
+- 🥽 Developing **Voice-Controlled Virtual Reality (VR) systems** using Raspberry Pi, ESP32, and Python
+- 👁️ Exploring **Computer Vision, Speech Processing, and Human-Computer Interaction**
+- 💻 Skilled in **Python, LangChain, Ollama, FAISS, Streamlit, OpenCV, Pandas, NumPy, and Git**
+- 🌱 Currently learning **Agentic AI, Multimodal AI, Edge AI, and Vision-Language Models**
+- 🤝 Open to **AI/ML internships, research collaborations, and open-source contributions**
+- 🚀 Passionate about creating intelligent systems that bridge **AI, software, and immersive technologies**
 ```
 
 ---
