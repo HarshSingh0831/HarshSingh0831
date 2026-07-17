@@ -45,9 +45,9 @@ I'm **Harsh Singh**, an MCA student at **Thapar Institute of Engineering & Techn
 - 🌱 Currently learning **Agentic AI, Multimodal AI, Edge AI, and Vision-Language Models**
 - 🤝 Open to **AI/ML internships, research collaborations, and open-source contributions**
 - 🚀 Passionate about creating intelligent systems that bridge **AI, software, and immersive technologies**
-```
 
----
+
+
 
 ## 🚀 Featured Projects
 
